@@ -1,3 +1,4 @@
 %{
   "dictionnary": {:git, "https://github.com/Maartz/dictionnary.git", "f7fac2015d3c4318132e031f0b1051b6b0a18474", []},
+  "inflex": {:hex, :inflex, "2.0.0", "db69d542b8fdb23ac667f9bc0c2395a3983fa2da6ae2efa7ab5dc541928f7a75", [:mix], [], "hexpm"},
 }

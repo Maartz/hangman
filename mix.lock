@@ -1,0 +1,3 @@
+%{
+  "dictionnary": {:git, "https://github.com/Maartz/dictionnary.git", "f7fac2015d3c4318132e031f0b1051b6b0a18474", []},
+}
